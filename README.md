@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @AAnusha965
-- 👀 I’m interested in singing
-- 🌱 I’m currently learning  dance
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in coding,and product Management
+- 🌱 I’m currently pursuing Btech in cse
+- 💞️ I’m looking to collaborate on any startup companies
+- 
 
 <!---
 AAnusha965/AAnusha965 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
