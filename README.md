@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AAnusha965
-- 👀 I’m interested in coding,and product Management
+- 👀 I’m interested in Dara Analytics 
 - 🌱 I’m currently pursuing Btech in cse
-- 💞️ I’m looking to collaborate on any startup companies
+- 💞️ I’m looking to work for any organisation 
 - 
 
 <!---
